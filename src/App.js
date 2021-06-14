@@ -1,9 +1,18 @@
+import React from "react";
+// Adding Styles
+
+import "./styles/app.scss";
+
+// Adding Compoments
+import Player from "./components/Player";
+import Song from "./components/Song";
 
 function App() {
   return (
-    <>
-    <h1>Hello Mfs</h1>
-    </>
+    <div className="app">
+      <Song />
+      <Player />
+    </div>
   );
 }
 
