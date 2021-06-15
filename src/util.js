@@ -124,6 +124,17 @@ const chillHop = () => {
       active: false,
     },
     {
+      name: "Tera Fitoor",
+      cover:
+        "https://scontent.fktm6-1.fna.fbcdn.net/v/t1.6435-9/188465170_1222952968499632_7037570951130999995_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=NdOEXK79mcsAX8rQi0o&_nc_ht=scontent.fktm6-1.fna&oh=10c33dbe762004edcd0d13ccdd38aff1&oe=60CE7FF1",
+      artist: "Himesh Reshammiya",
+      audio:
+        "https://firebasestorage.googleapis.com/v0/b/image-upload-and-show-9ddea.appspot.com/o/Songs%2FTera%20Fitoor%20Lyrical%20-%20Genius%20Utkarsh%20Sharma%2C%20Ishita%20Chauhan%20Arijit%20Singh%20Himesh%20Reshammiya.mp3?alt=media&token=931e2782-6395-46a2-ae5e-443ce81b47d1",
+      color: ["#1E385B", "#E87476"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
       name: "Sano",
       cover:
         "https://scontent.fktm6-1.fna.fbcdn.net/v/t1.6435-9/93353801_2670754529915449_8071453132233637888_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=174925&_nc_ohc=bz4v_MJL-L4AX9Q04Uy&_nc_oc=AQkY0P9aER-DLFFpmXnpxSQFYy-zeiZhv2Q0aA4D2VSfhcLstl-1c5kgJ9i0vsBPMq28QxgoWlcw2mg0jc0QeX_i&tn=gsHzJ0wWvakh9JdO&_nc_ht=scontent.fktm6-1.fna&oh=84aa721fc07601b4272499c0d79070ba&oe=60CDD38C",
