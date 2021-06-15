@@ -28,8 +28,8 @@ function App() {
   });
 
   // State
-  const [song, setSong] = useState(data());
-  const [currentSong, setCurrentSong] = useState(song[0]);
+  const [songs, setSongs] = useState(data());
+  const [currentSong, setCurrentSong] = useState(songs[0]);
   const [isPlaying, setIsPlaying] = useState(false);
 
   return (
@@ -45,9 +45,11 @@ function App() {
       />
       <Library
         audioRef={audioRef}
-        song={song}
+        songs={songs}
         setCurrentSong={setCurrentSong}
         isPlaying={isPlaying}
+        setSongs={setSongs}
+        
       />
       <audio
         onTimeUpdate={timeUpdateHandler}
