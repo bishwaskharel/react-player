@@ -9,7 +9,7 @@ const chillHop = () => {
       artist: "Apurva Tamang",
       audio:
         "https://firebasestorage.googleapis.com/v0/b/image-upload-and-show-9ddea.appspot.com/o/Songs%2FApurva%20Tamang%20-%20K%20Garu%20(Lyrics)%20SAD.mp3?alt=media&token=85e5b206-493d-4073-96ac-c54093d511ce",
-      color: ["#2E385B", "#EB7476"],
+      color: ["#1E1E1E", "#888888"],
       id: uuidv4(),
       active: true,
     },
@@ -20,7 +20,7 @@ const chillHop = () => {
       artist: "Arijit Singh",
       audio:
         "https://firebasestorage.googleapis.com/v0/b/image-upload-and-show-9ddea.appspot.com/o/Songs%2FHawayein%20Jab%20Harry%20Met%20Sejal%20Anushka%20Sharma%20Shah%20Rukh%20Khan%20Pritam%20Imtiaz%20Ali%20Arijit%20Singh.mp3?alt=media&token=5dee28b6-a0ce-4231-8ba4-f5361e71b2ed",
-      color: ["#1E385B", "#E87476"],
+      color: ["#D8CA3D", "#8392A6"],
       id: uuidv4(),
       active: false,
     },
@@ -31,7 +31,7 @@ const chillHop = () => {
       artist: "John Denver",
       audio:
         "https://firebasestorage.googleapis.com/v0/b/image-upload-and-show-9ddea.appspot.com/o/Songs%2FJohn%20Denver%20-%20Take%20Me%20Home%2C%20Country%20Roads%20(Audio).mp3?alt=media&token=66eaac9d-0beb-4784-a749-e19163c5ec5c",
-      color: ["#1E385B", "#E87476"],
+      color: ["#535A86", "#E6B059"],
       id: uuidv4(),
       active: false,
     },
@@ -42,7 +42,7 @@ const chillHop = () => {
       artist: "Apurva Tamang",
       audio:
         "https://firebasestorage.googleapis.com/v0/b/image-upload-and-show-9ddea.appspot.com/o/Songs%2FMann%20Ka%20Bhawana%20(Lyrics)%20-%20Apurva%20Tamang%20(feat.%20Shaktay).mp3?alt=media&token=aae43448-ee1a-4c41-a8af-5335c86d76b3",
-      color: ["#2E385B", "#EB7476"],
+      color: ["#B2774F", "#334357"],
       id: uuidv4(),
       active: false,
     },
@@ -53,7 +53,7 @@ const chillHop = () => {
       artist: "James Arthur",
       audio:
         "https://firebasestorage.googleapis.com/v0/b/image-upload-and-show-9ddea.appspot.com/o/Songs%2FJames%20Arthur%20-%20Say%20You%20Won't%20Let%20Go.mp3?alt=media&token=081675b3-c93e-41fd-b953-f742a13960cc",
-      color: ["#2E385B", "#EB7476"],
+      color: ["#706D76", "#BB9381"],
       id: uuidv4(),
       active: false,
     },
@@ -64,7 +64,7 @@ const chillHop = () => {
       artist: "Rochak Kohli",
       audio:
         "https://firebasestorage.googleapis.com/v0/b/image-upload-and-show-9ddea.appspot.com/o/Songs%2FLae%20Dooba%20-%20Lyrical%20Aiyaary%20Sidharth%20Malhotra%2C%20Rakul%20Preet%20Sunidhi%20Chauhan%20Rochak%20Kohli.mp3?alt=media&token=dd3feed1-0fc4-4e6f-b667-176cd6b503db",
-      color: ["#1E385B", "#E87476"],
+      color: ["#634326", "#BFC4B5"],
       id: uuidv4(),
       active: false,
     },
@@ -75,7 +75,7 @@ const chillHop = () => {
       artist: "Apurva Tamang",
       audio:
         "https://firebasestorage.googleapis.com/v0/b/image-upload-and-show-9ddea.appspot.com/o/Songs%2FSunideu%20-%20Apurva%20Tamang%20(Official%20Video).mp3?alt=media&token=c9dd7e74-7319-45ef-aa21-7e0046e3253a",
-      color: ["#2E385B", "#EB7476"],
+      color: ["#9FAF69", "#2F8DC5"],
       id: uuidv4(),
       active: false,
     },
@@ -86,7 +86,7 @@ const chillHop = () => {
       artist: "Taylor Swift",
       audio:
         "https://firebasestorage.googleapis.com/v0/b/image-upload-and-show-9ddea.appspot.com/o/Songs%2FTaylor%20Swift%20-%20Back%20To%20December.mp3?alt=media&token=a71721b6-c47d-4ec4-a7c8-b6f92a73931e",
-      color: ["#1E385B", "#E87476"],
+      color: ["#A0A0A0", "#454545"],
       id: uuidv4(),
       active: false,
     },
@@ -97,7 +97,7 @@ const chillHop = () => {
       artist: "Bipul Chhetri",
       audio:
         "https://firebasestorage.googleapis.com/v0/b/image-upload-and-show-9ddea.appspot.com/o/Songs%2FBipul%20Chettri%20-%20Gahiro%20Gahiro%20(Single).mp3?alt=media&token=e3562832-98ee-4c1a-9f8b-b9e66cbc59f1",
-      color: ["#2E385B", "#EB7476"],
+      color: ["#E2223B", "#7A8BA0"],
       id: uuidv4(),
       active: false,
     },
@@ -108,7 +108,7 @@ const chillHop = () => {
       artist: "Apurva Tamang",
       audio:
         "https://firebasestorage.googleapis.com/v0/b/image-upload-and-show-9ddea.appspot.com/o/Songs%2FTimrai%20TiraApurva%20Tamang%20Lyrics%20vedio%20-%20Paradise.mp3?alt=media&token=9dae5494-242c-4027-9937-385ee8504638",
-      color: ["#1E385B", "#E87476"],
+      color: ["#6E3F1E", "#BCC7D7"],
       id: uuidv4(),
       active: false,
     },
@@ -119,7 +119,7 @@ const chillHop = () => {
       artist: "Miley Cyrus",
       audio:
         "https://firebasestorage.googleapis.com/v0/b/image-upload-and-show-9ddea.appspot.com/o/Songs%2FMiley%20Cyrus%20-%20Party%20In%20The%20U.S.A.%20(Official%20Video).mp3?alt=media&token=d04ca59b-a4af-4bb8-8488-9a485a99c0cc",
-      color: ["#1E385B", "#E87476"],
+      color: ["#FFC39F", "#ECECEC"],
       id: uuidv4(),
       active: false,
     },
@@ -130,7 +130,7 @@ const chillHop = () => {
       artist: "Himesh Reshammiya",
       audio:
         "https://firebasestorage.googleapis.com/v0/b/image-upload-and-show-9ddea.appspot.com/o/Songs%2FTera%20Fitoor%20Lyrical%20-%20Genius%20Utkarsh%20Sharma%2C%20Ishita%20Chauhan%20Arijit%20Singh%20Himesh%20Reshammiya.mp3?alt=media&token=931e2782-6395-46a2-ae5e-443ce81b47d1",
-      color: ["#1E385B", "#E87476"],
+      color: ["#80120D", "#5A2A19"],
       id: uuidv4(),
       active: false,
     },
@@ -141,7 +141,7 @@ const chillHop = () => {
       artist: "Apurva Tamang",
       audio:
         "https://firebasestorage.googleapis.com/v0/b/image-upload-and-show-9ddea.appspot.com/o/Songs%2FSano%20-%20Apurva%20Tamang%20(Lyric%20Video).mp3?alt=media&token=d4bfde64-105a-4c3e-b8f6-6c082833091d",
-      color: ["#1E385B", "#E87476"],
+      color: ["#F9C06E", "#A8584E"],
       id: uuidv4(),
       active: false,
     },
