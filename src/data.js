@@ -25,7 +25,7 @@ const chillHop = () => {
       active: false,
     },
     {
-      name: "Take Me Home, Country Roads ",
+      name: "Country Roads ",
       cover:
         "https://scontent.fktm6-1.fna.fbcdn.net/v/t1.6435-9/133658590_1320836638279488_3152230888143769131_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=174925&_nc_ohc=IJGNwa8VyIcAX9AGZ1D&_nc_ht=scontent.fktm6-1.fna&oh=21ee2d0d7a150f5d5dd6299517ba3356&oe=60CD084C",
       artist: "John Denver",

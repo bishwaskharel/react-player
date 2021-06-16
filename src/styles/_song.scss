@@ -30,3 +30,11 @@
     transform: rotate(359deg);
   }
 }
+
+@media screen and (max-width: 786px) {
+  .song-container {
+    img {
+      width: 40%;
+    }
+  }
+}

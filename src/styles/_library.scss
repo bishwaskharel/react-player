@@ -20,6 +20,7 @@
   align-items: center;
   padding: 1rem 2rem 1rem 2rem;
   cursor: pointer;
+  transition: all 0.5s ease;
   &:hover {
     background-color: rgba(204, 200, 241, 0.233);
   }
@@ -68,4 +69,10 @@
   background-color: rgba(113, 116, 107, 0.384);
   border-radius: 50px;
   border: transparent;
+}
+
+@media screen and (max-width: 786px) {
+  .library {
+    width: 100%;
+  }
 }

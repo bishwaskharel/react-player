@@ -40,7 +40,6 @@ input[type="range"]::-webkit-slider-thumb {
   -webkit-appearance: none;
   width: 16px;
   height: 16px;
- 
 }
 
 .track {
@@ -61,4 +60,15 @@ input[type="range"]::-webkit-slider-thumb {
   left: 0%;
   transform: translateX(0%);
   pointer-events: none;
+}
+
+@media screen and (max-width: 786px) {
+  .time-control {
+    width: 100%;
+    margin: auto;
+  }
+  .play-control {
+    width: 60%;
+    margin: auto;
+  }
 }
