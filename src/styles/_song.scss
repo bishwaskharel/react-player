@@ -10,7 +10,9 @@
     border-radius: 50%;
     margin-top: 2rem;
     animation: rotation 40s infinite linear;
-    box-shadow: 2px 2px 100px #9e989870;
+    -webkit-box-shadow: 10px 10px 74px -21px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 74px -21px rgba(0, 0, 0, 0.75);
+    box-shadow: 10px 10px 74px -21px rgba(0, 0, 0, 0.75);
   }
 
   h1 {
