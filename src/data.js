@@ -27,7 +27,7 @@ const chillHop = () => {
     {
       name: "Country Roads ",
       cover:
-        "https://scontent.fktm6-1.fna.fbcdn.net/v/t1.6435-9/133658590_1320836638279488_3152230888143769131_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=174925&_nc_ohc=IJGNwa8VyIcAX9AGZ1D&_nc_ht=scontent.fktm6-1.fna&oh=21ee2d0d7a150f5d5dd6299517ba3356&oe=60CD084C",
+        "https://scontent.fktm6-1.fna.fbcdn.net/v/t31.18172-8/12891776_10153596372188691_385732722906294546_o.jpg?_nc_cat=100&ccb=1-3&_nc_sid=174925&_nc_ohc=BP56Jpsrx0cAX8eOgaC&_nc_ht=scontent.fktm6-1.fna&oh=103a5b776c191e349b8154cab0b4b847&oe=60F2699B",
       artist: "John Denver",
       audio:
         "https://firebasestorage.googleapis.com/v0/b/image-upload-and-show-9ddea.appspot.com/o/Songs%2FJohn%20Denver%20-%20Take%20Me%20Home%2C%20Country%20Roads%20(Audio).mp3?alt=media&token=66eaac9d-0beb-4784-a749-e19163c5ec5c",
@@ -49,7 +49,7 @@ const chillHop = () => {
     {
       name: "Say you won't let go",
       cover:
-        "https://scontent.fktm6-1.fna.fbcdn.net/v/t1.6435-9/125767041_1478082745712636_6866163186171059150_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=174925&_nc_ohc=ZzvjYYh6MHAAX_isplM&_nc_ht=scontent.fktm6-1.fna&oh=71e000820bd1dcc0f0af98d5d8732350&oe=60CE7FE2",
+        "https://scontent.fktm6-1.fna.fbcdn.net/v/t1.6435-9/70014927_2632094220175855_2302866824510832640_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=174925&_nc_ohc=FdOVIErQRSwAX-JbO5e&tn=gsHzJ0wWvakh9JdO&_nc_ht=scontent.fktm6-1.fna&oh=ae7c141b73373e06652324e49b45c622&oe=60D099B6",
       artist: "James Arthur",
       audio:
         "https://firebasestorage.googleapis.com/v0/b/image-upload-and-show-9ddea.appspot.com/o/Songs%2FJames%20Arthur%20-%20Say%20You%20Won't%20Let%20Go.mp3?alt=media&token=081675b3-c93e-41fd-b953-f742a13960cc",
@@ -93,7 +93,7 @@ const chillHop = () => {
     {
       name: "Gahiro Gahiro",
       cover:
-        "https://scontent.fktm6-1.fna.fbcdn.net/v/t1.6435-9/64497923_383642168937133_8860778317767245824_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=174925&_nc_ohc=aD3eqt9VKLEAX_uBvnt&tn=gsHzJ0wWvakh9JdO&_nc_ht=scontent.fktm6-1.fna&oh=8957f33197a10088f9abea2f753c3c40&oe=60CDFB5A",
+        "https://scontent.fktm6-1.fna.fbcdn.net/v/t1.6435-9/178448043_313525990127640_3008285912566297693_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=174925&_nc_ohc=N-hk9L_4UpUAX8HxJsY&_nc_ht=scontent.fktm6-1.fna&oh=d2d8b3ad90822a090349ab0c3aca85a6&oe=60CF03F1",
       artist: "Bipul Chhetri",
       audio:
         "https://firebasestorage.googleapis.com/v0/b/image-upload-and-show-9ddea.appspot.com/o/Songs%2FBipul%20Chettri%20-%20Gahiro%20Gahiro%20(Single).mp3?alt=media&token=e3562832-98ee-4c1a-9f8b-b9e66cbc59f1",
